@@ -1,6 +1,4 @@
-Here's a simple README file for your project:
 
----
 
 # Amazon Landing Page Replica
 
